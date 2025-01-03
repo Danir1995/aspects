@@ -8,7 +8,7 @@
 		<version>3.0.6</version>
 		<relativePath/>
 	</parent>
-	<groupId>com.codility.aop.aspects</groupId>
+	<groupId>com.codility.aop</groupId>
 	<artifactId>aspects</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>aspects</name>
