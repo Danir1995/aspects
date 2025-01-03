@@ -1,0 +1,36 @@
+# Сборочные директории
+target/
+
+# Логи Maven
+*.log
+
+# Файлы конфигурации IDE
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# Каталоги и файлы временных данных
+*.swp
+*.swo
+*~
+
+# Логи и временные файлы
+*.tmp
+*.bak
+*.pid
+
+# Файлы операционных систем
+.DS_Store
+Thumbs.db
+
+# Локальные конфигурационные файлы
+mvnw*
+!.mvn/wrapper/maven-wrapper.jar
+
+# IntelliJ IDEA специфические файлы
+out/
+
+# Eclipse специфические файлы
+target-eclipse/
