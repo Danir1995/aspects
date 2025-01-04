@@ -1,6 +1,7 @@
 package com.codility.aop.date;
 
 import com.codility.aop.annotations.Log;
+import com.codility.aop.repository.DateRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
